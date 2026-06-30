@@ -22,6 +22,6 @@
     </p>
 
     <p style="margin-top: 25px; font-size: 14px; color: #6c757d; font-style: italic;">
-        *Certified by the U.S. Department of State MOOC Network English Programs & Alura/ONE Web Development Program.
+        *Certified by the U.S. Department of State MOOC Network English Programs & Alura/ONE Web Development Program
     </p>
 </div>
