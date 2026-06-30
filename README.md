@@ -22,7 +22,7 @@ Hello! I am **Arlene Capellán**, a technical professional specializing in web d
 ---
 
 ### 🚀 Highlighted Projects & Data Systems
-* **Automated Scheduling & Directory System (Excel):** Developed a complex data architecture to manage six distinct service groups. Built a master directory linking automated schedules, conflict-prevention filters, and active assignment tracking utilizing advanced logical and statistical array functions (`SUMAPRODUCTO`, `CONTAR.SI`).
+* **Automated Scheduling & Directory System (Excel):** Developed a complex data architecture to manage six distinct  groups. Built a master directory linking automated schedules, conflict-prevention filters, and active assignment tracking utilizing advanced logical and statistical array functions (`SUMAPRODUCTO`, `CONTAR.SI`).
 
 ---
 
