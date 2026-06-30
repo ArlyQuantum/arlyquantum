@@ -6,7 +6,7 @@ Hello! I am **Arlene Capellán**, a technical professional specializing in web d
 
 ### 🎓 Featured International Credentials
 * **U.S. Department of State MOOC Network Programs** – Open English for Business and Entrepreneurship Program Certification
-* **Alura/ONE Web Development Program** – Graduate
+* **Alura/ONE** – Web Development Front End
 * **INFOTEP** – Technical Degree in Electronics & Computer Maintenance
 
 ---
