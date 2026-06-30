@@ -1,4 +1,4 @@
-# Welcome to Nova Reset Studio & Arly Dev
+# Welcome to Nova Reset Studio By Arly Dev
 
 Hello! I am **Arlene Capellán**, a technical professional specializing in web development, systems maintenance, and the founder of **Nova Reset Studio**. This profile showcases my tech solutions, database management competencies, and digital content strategies developed under international standards.
 
