@@ -1,11 +1,11 @@
-# Welcome to Nova Reset Studio & Arly Dev
+# Welcome to Nova Reset Studio By Arly Dev
 
 Hello! I am **Arlene Capellán**, a technical professional specializing in web development, database management, and systems maintenance. As the founder of **Nova Reset Studio**, I focus on delivering high-quality tech solutions and digital strategies aligned with international standards.
 
 ---
 
 ### 🎓 Featured International Credentials
-* **U.S. Department of State MOOC Network Programs** – Open English Program Certification
+* **U.S. Department of State MOOC Network Programs** – Open English for Business and Entrepreneurship Program Certification
 * **Alura/ONE Web Development Program** – Graduate
 * **INFOTEP** – Technical Degree in Electronics & Computer Maintenance
 
