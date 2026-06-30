@@ -14,11 +14,22 @@ Hello! I am **Arlene Capellán**, a technical professional specializing in web d
 ### 🛠️ Core Technical Skillset
 * **💻 Junior Web Developer** (HTML5 & CSS3)
 * **🗄️ MySQL Databases & SQL Queries**
+* **📊 Advanced Excel & Data Systems Automation**
 * **📈 Digital Content Strategy & Marketing**
 * **🔮 Advanced Virtual Assistance**
 * **🔌 Electronics & Infrastructure Maintenance**
 
 ---
 
-👀 **Want to see my fully styled interactive canvas profile?** 
-[👉 Click here to view my live Canvas Presentation Portfolio](https://moocs.openenglishprograms.org/eportfolios/4553/home/welcome) 
+### 🚀 Highlighted Projects & Data Systems
+* **Automated Scheduling & Directory System (Excel):** Developed a complex data architecture to manage six distinct service groups. Built a master directory linking automated schedules, conflict-prevention filters, and active assignment tracking utilizing advanced logical and statistical array functions (`SUMAPRODUCTO`, `CONTAR.SI`).
+
+---
+
+### 🤝 AI-Powered Development
+This portfolio and the projects within are developed in continuous collaboration with my AI assistant, combining human ingenuity with advanced automation to build optimized, high-impact digital solutions.
+
+---
+
+👀 **Want to see our fully styled interactive canvas profile?** 
+[👉 Click here to view our live Canvas Presentation Portfolio](https://moocs.openenglishprograms.org/eportfolios/4553/home/welcome)
