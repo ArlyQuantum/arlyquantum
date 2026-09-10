@@ -82,16 +82,16 @@ Email Delivery
 Personalized Professional Report
 ```
 
-Frontend
+**Frontend**
 
-Repository:  
+**Repository:**
+
 [**Nova-Reset-Studio**](https://github.com/ArlyQuantum/Nova-Reset-Studio)
-Repository:  
-[**nova-reset-backend**](https://github.com/ArlyQuantum/nova-reset-backend)
-Live project:  
+
+**Live project:**  
 [**Try the NOVA RESET Ikigai Test**](https://arlyquantum.github.io/Nova-Reset-Studio/test.html)
 
-Technologies:
+**Technologies:**
 
 HTML5
 CSS3
@@ -99,12 +99,15 @@ JavaScript
 Fetch API
 JSON
 GitHub Pages
-Backend
 
-Repository:
-nova-reset-backend
+**Backend**
 
-Technologies:
+
+**Repository:**
+
+[**nova-reset-backend**](https://github.com/ArlyQuantum/nova-reset-backend)
+
+**Technologies:**
 
 Node.js
 JavaScript
@@ -113,9 +116,10 @@ API endpoints
 Environment variables
 Email automation
 Frontend / Backend integration
-🎨 AI Creative Production
 
-NOVA RESET is also my experimentation lab for AI-assisted digital production.
+**🎨 AI Creative Production**
+
+**NOVA RESET** is also my experimentation lab for AI-assisted digital production.
 
 I develop workflows involving:
 
@@ -136,7 +140,8 @@ IMAGE · VOICE · STORY
 
 Each piece is created not only as content, but as evidence of a capability that can be applied to real projects and clients.
 
-🛠️ Technical Stack
+**🛠️ Technical Stack**
+
 Frontend
 
 HTML · CSS · JavaScript · Responsive Design
@@ -157,7 +162,7 @@ Creative Production
 
 Storytelling · AI Image · AI Video · Content Strategy
 
-📊 Systems & Automation
+**📊 Systems & Automation**
 
 I also build practical systems to reduce repetitive work and improve organization.
 
@@ -170,14 +175,15 @@ Inventory management systems
 Process organization
 Automated reporting structures
 
-🎓 Training
+**🎓 Training**
+
 
 Oracle ONE / Alura Latam — Web Development
 U.S. Department of State MOOC Network — Open English for Business & Entrepreneurship
 INFOTEP — Electronics & Computer Maintenance
 
 
-🌱 Currently Building
+**🌱 Currently Building**
 
 I am developing NOVA RESET STUDIO as a portfolio of real-world projects where I combine:
 
