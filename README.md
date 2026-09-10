@@ -80,14 +80,16 @@ Vercel Serverless Backend
 Email Delivery
   ↓
 Personalized Professional Report
+```
 
 Frontend
 
-Repository:
-Nova-Reset-Studio
-
-Live project:
-Try the NOVA RESET Ikigai Test
+Repository:  
+[**Nova-Reset-Studio**](https://github.com/ArlyQuantum/Nova-Reset-Studio)
+Repository:  
+[**nova-reset-backend**](https://github.com/ArlyQuantum/nova-reset-backend)
+Live project:  
+[**Try the NOVA RESET Ikigai Test**](https://arlyquantum.github.io/Nova-Reset-Studio/test.html)
 
 Technologies:
 
@@ -187,13 +189,18 @@ Build real things.
 Document the process.
 Turn learning into evidence.
 
-🔗 Let's Connect
+## 🔗 Let's Connect
 
-🌐 NOVA RESET STUDIO
-🧠 Try the Ikigai Test
-💻 Frontend Repository
-⚙️ Backend Repository
+🌐 **NOVA RESET STUDIO**
 
-NOVA RESET STUDIO
+🧠 [**Try the NOVA RESET Ikigai Test**](https://arlyquantum.github.io/Nova-Reset-Studio/test.html)
 
-Discover. Connect. Build.
+💻 [**Frontend Repository**](https://github.com/ArlyQuantum/Nova-Reset-Studio)
+
+⚙️ [**Backend Repository**](https://github.com/ArlyQuantum/nova-reset-backend)
+
+---
+
+### NOVA RESET STUDIO
+
+**Discover. Connect. Build.**
