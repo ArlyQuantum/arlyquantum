@@ -1,35 +1,199 @@
-# Welcome to Nova Reset Studio By Arly Dev
+# Hi, I'm Arly Dev 👋
 
-Hello! I am **Arlene Capellán**, a technical professional specializing in web development, database management, and systems maintenance. As the founder of **Nova Reset Studio**, I focus on delivering high-quality tech solutions and digital strategies aligned with international standards.
+### Founder of NOVA RESET STUDIO
 
----
+I build digital solutions that connect **strategy, web development, automation, AI and creative execution**.
 
-### 🎓 Featured International Credentials
-* **U.S. Department of State MOOC Network Programs** – Open English for Business and Entrepreneurship Program Certification
-* **Alura/ONE** – Web Development Front End
-* **INFOTEP** – Technical Degree in Electronics & Computer Maintenance
+My focus is simple:
 
----
-
-### 🛠️ Core Technical Skillset
-* **💻 Junior Web Developer** (HTML5 & CSS3)
-* **🗄️ MySQL Databases & SQL Queries**
-* **📊 Advanced Excel & Data Systems Automation**
-* **📈 Digital Content Strategy & Marketing**
-* **🔮 Advanced Virtual Assistance**
-* **🔌 Electronics & Infrastructure Maintenance**
+> **Turn ideas into real, usable solutions.**
 
 ---
 
-### 🚀 Highlighted Projects & Data Systems
-* **Automated Scheduling & Directory System (Excel):** Developed a complex data architecture to manage six distinct  groups. Built a master directory linking automated schedules, conflict-prevention filters, and active assignment tracking utilizing advanced logical and statistical array functions (`SUMAPRODUCTO`, `CONTAR.SI`).
+## 🚀 NOVA RESET STUDIO
+
+**NOVA RESET STUDIO** is my digital creation and development ecosystem.
+
+I work across:
+
+- 💻 Web Development
+- ⚙️ Automation & Digital Workflows
+- 🤖 AI-Assisted Solutions
+- 🧠 Digital Strategy
+- 🎬 AI Image & Video Production
+- ✍️ Storytelling & Content Creation
+- 📊 Data & Process Systems
+
+Depending on the project, I can help through:
+
+**Orientation → Assistance → Design / Execution**
 
 ---
 
-### 🤝 AI-Powered Development
-This portfolio and the projects within are developed in continuous collaboration with my AI assistant, combining human ingenuity with advanced automation to build optimized, high-impact digital solutions.
+## 🧬 The NOVA Framework
+
+NOVA RESET is built around three dimensions of growth:
+
+### BASE
+Preserves what already exists:
+skills, experience, knowledge and structure.
+
+### CREATOR
+Experiments, transforms and builds.
+
+### FUTURE
+Provides direction toward what comes next.
+
+> **Growth doesn't destroy who you are. It evolves you.**
+
+BASE provides the foundation.  
+CREATOR transforms it.  
+FUTURE gives it direction.
 
 ---
 
-👀 **Want to see our fully styled interactive canvas profile?** 
-[👉 Click here to view our live Canvas Presentation Portfolio](https://moocs.openenglishprograms.org/eportfolios/4553/home/welcome)
+## 🧠 Featured Project — NOVA RESET Ikigai
+
+An interactive digital experience designed to help users identify their:
+
+**strengths · interests · experience · possibilities**
+
+The system goes beyond a simple questionnaire.
+
+It collects the user's answers, analyzes their profile and generates a personalized professional report that can be delivered by email.
+
+### 🔄 Project Flow
+
+```text
+User
+  ↓
+Ikigai Assessment
+  ↓
+Frontend Processing
+  ↓
+Structured User + Report Data
+  ↓
+POST Request
+  ↓
+Vercel Serverless Backend
+  ↓
+Email Delivery
+  ↓
+Personalized Professional Report
+
+Frontend
+
+Repository:
+Nova-Reset-Studio
+
+Live project:
+Try the NOVA RESET Ikigai Test
+
+Technologies:
+
+HTML5
+CSS3
+JavaScript
+Fetch API
+JSON
+GitHub Pages
+Backend
+
+Repository:
+nova-reset-backend
+
+Technologies:
+
+Node.js
+JavaScript
+Vercel Serverless Functions
+API endpoints
+Environment variables
+Email automation
+Frontend / Backend integration
+🎨 AI Creative Production
+
+NOVA RESET is also my experimentation lab for AI-assisted digital production.
+
+I develop workflows involving:
+
+AI image generation
+AI video generation
+Character consistency
+Cinematic short-form content
+Multilingual content
+Prompt engineering
+Storytelling
+Brand communication
+Video editing
+AI-assisted creative workflows
+
+The current NOVA RESET communication system is built around three pillars:
+
+IMAGE · VOICE · STORY
+
+Each piece is created not only as content, but as evidence of a capability that can be applied to real projects and clients.
+
+🛠️ Technical Stack
+Frontend
+
+HTML · CSS · JavaScript · Responsive Design
+
+Backend & APIs
+
+Node.js · JSON · REST-style APIs · Serverless Functions
+
+Data
+
+SQL · MySQL · Excel Systems · Data Validation
+
+AI & Automation
+
+Prompt Engineering · AI Workflows · Process Automation
+
+Creative Production
+
+Storytelling · AI Image · AI Video · Content Strategy
+
+📊 Systems & Automation
+
+I also build practical systems to reduce repetitive work and improve organization.
+
+Projects include:
+
+Automated Excel directories
+Assignment and scheduling systems
+Data validation workflows
+Inventory management systems
+Process organization
+Automated reporting structures
+
+🎓 Training
+
+Oracle ONE / Alura Latam — Web Development
+U.S. Department of State MOOC Network — Open English for Business & Entrepreneurship
+INFOTEP — Electronics & Computer Maintenance
+
+
+🌱 Currently Building
+
+I am developing NOVA RESET STUDIO as a portfolio of real-world projects where I combine:
+
+Strategy + Technology + AI + Automation + Creative Execution
+
+My current approach:
+
+Build real things.
+Document the process.
+Turn learning into evidence.
+
+🔗 Let's Connect
+
+🌐 NOVA RESET STUDIO
+🧠 Try the Ikigai Test
+💻 Frontend Repository
+⚙️ Backend Repository
+
+NOVA RESET STUDIO
+
+Discover. Connect. Build.
