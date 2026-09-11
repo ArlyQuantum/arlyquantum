@@ -205,6 +205,8 @@ Turn learning into evidence.
 
 ⚙️ [**Backend Repository**](https://github.com/ArlyQuantum/nova-reset-backend)
 
+💼 [**LinkedIn**](https://www.linkedin.com/in/dev-arlene)
+
 ---
 
 ### NOVA RESET STUDIO
